@@ -24,5 +24,8 @@
   "homepage": "https://github.com/mdarse/heroku-static-site",
   "dependencies": {
     "http-server": "^0.7.4"
+  },
+  "engines": {
+    "node": "0.10.x"
   }
 }
