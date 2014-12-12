@@ -1,0 +1,28 @@
+{
+  "name": "heroku-static-site",
+  "version": "0.0.1",
+  "description": "Simple example to host static site on Heroku",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdarse/heroku-static-site.git"
+  },
+  "keywords": [
+    "heroku",
+    "static",
+    "hosting",
+    "site"
+  ],
+  "author": "Mathieu Darse <hello@mathieudarse.fr> (http://mathieudarse.fr/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdarse/heroku-static-site/issues"
+  },
+  "homepage": "https://github.com/mdarse/heroku-static-site",
+  "dependencies": {
+    "http-server": "^0.7.4"
+  }
+}
