@@ -1,0 +1,6 @@
+{
+  "name": "Heroku Static Site",
+  "description": "Simple example to host static site on Heroku",
+  "repository": "https://github.com/mdarse/heroku-static-site",
+  "keywords": ["static", "site"]
+}

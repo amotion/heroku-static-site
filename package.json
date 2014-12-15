@@ -27,5 +27,8 @@
   },
   "engines": {
     "node": "0.10.x"
+  },
+  "devDependencies": {
+    "app.json": "^1.2.1"
   }
 }
